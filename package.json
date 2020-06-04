@@ -1,0 +1,25 @@
+{
+  "name": "circleci-test2006-michinoko-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michinoko/circleci-test2006.git"
+  },
+  "author": "michinoko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/michinoko/circleci-test2006/issues"
+  },
+  "homepage": "https://github.com/michinoko/circleci-test2006#readme"
+}
