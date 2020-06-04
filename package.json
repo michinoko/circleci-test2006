@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "do": "echo console test is do.",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
